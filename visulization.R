@@ -121,5 +121,5 @@ plt7<-ggplot(data, aes(x = CocoaPercent_num, y = Rating)) +
   ) +
   theme_minimal()
 
-ggsave("figures/corr_CR.png",plot=plt6)
+ggsave("figures/corr_CR.png",plot=plt7)
 
