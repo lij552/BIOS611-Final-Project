@@ -1,0 +1,16 @@
+---
+title: "Bio 611 Final Report"
+author: "Li Jiang"
+date: "2024-12-07"
+output: html_document
+---
+
+#Data background
+
+The data is
+
+![](figures/corr.png)
+
+
+
+
